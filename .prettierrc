@@ -1,0 +1,16 @@
+{
+    "singleQuote": true,
+    "tabWidth": 2,
+    "bracketSpacing": true,
+    "semi": true,
+    "printWidth": 140,
+    "arrowParens": "always",
+    "overrides": [
+        {
+            "files": ["*.html"],
+            "options": {
+                "tabWidth": 4
+            }
+        }
+    ]
+}
